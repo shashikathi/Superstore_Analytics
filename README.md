@@ -20,3 +20,4 @@ Download the .twbx file and open it in Tableau.
 Explore different visualizations using filters and slicers.
 Hover over data points for detailed insights.
 Modify the dashboard as per your requirements.
+![Superstore Dashboard](https://github.com/shashikathi/Superstore_Analytics/raw/main/Superstore%20.png)
